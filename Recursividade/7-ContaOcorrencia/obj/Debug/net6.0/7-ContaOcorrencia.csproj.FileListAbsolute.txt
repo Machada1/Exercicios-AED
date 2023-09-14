@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\bin\Debug\net6.0\7-ContaOcorrencia.exe
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\bin\Debug\net6.0\7-ContaOcorrencia.deps.json
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\bin\Debug\net6.0\7-ContaOcorrencia.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\bin\Debug\net6.0\7-ContaOcorrencia.dll
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\bin\Debug\net6.0\7-ContaOcorrencia.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\obj\Debug\net6.0\7-ContaOcorrencia.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\obj\Debug\net6.0\7-ContaOcorrencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\obj\Debug\net6.0\7-ContaOcorrencia.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\obj\Debug\net6.0\7-ContaOcorrencia.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\obj\Debug\net6.0\7-ContaOcorrencia.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\obj\Debug\net6.0\7-ContaOcorrencia.dll
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\obj\Debug\net6.0\refint\7-ContaOcorrencia.dll
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\obj\Debug\net6.0\7-ContaOcorrencia.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\obj\Debug\net6.0\7-ContaOcorrencia.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Recursividade\7-ContaOcorrencia\obj\Debug\net6.0\ref\7-ContaOcorrencia.dll

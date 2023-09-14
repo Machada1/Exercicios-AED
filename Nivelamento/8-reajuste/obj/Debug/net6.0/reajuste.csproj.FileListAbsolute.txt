@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\bin\Debug\net6.0\reajuste.exe
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\bin\Debug\net6.0\reajuste.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\bin\Debug\net6.0\reajuste.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\bin\Debug\net6.0\reajuste.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\bin\Debug\net6.0\reajuste.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\obj\Debug\net6.0\reajuste.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\obj\Debug\net6.0\reajuste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\obj\Debug\net6.0\reajuste.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\obj\Debug\net6.0\reajuste.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\obj\Debug\net6.0\reajuste.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\obj\Debug\net6.0\reajuste.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\obj\Debug\net6.0\refint\reajuste.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\obj\Debug\net6.0\reajuste.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\obj\Debug\net6.0\reajuste.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\reajuste\obj\Debug\net6.0\ref\reajuste.dll

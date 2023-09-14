@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\obj\Debug\net6.0\3-SomaVet.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\obj\Debug\net6.0\3-SomaVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\obj\Debug\net6.0\3-SomaVet.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\obj\Debug\net6.0\3-SomaVet.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\obj\Debug\net6.0\3-SomaVet.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\bin\Debug\net6.0\3-SomaVet.exe
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\bin\Debug\net6.0\3-SomaVet.deps.json
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\bin\Debug\net6.0\3-SomaVet.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\bin\Debug\net6.0\3-SomaVet.dll
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\bin\Debug\net6.0\3-SomaVet.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\obj\Debug\net6.0\3-SomaVet.dll
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\obj\Debug\net6.0\refint\3-SomaVet.dll
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\obj\Debug\net6.0\3-SomaVet.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\obj\Debug\net6.0\3-SomaVet.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Recursividade\3-SomaVet\obj\Debug\net6.0\ref\3-SomaVet.dll

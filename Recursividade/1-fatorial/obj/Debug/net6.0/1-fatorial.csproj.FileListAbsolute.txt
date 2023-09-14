@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\bin\Debug\net6.0\1-fatorial.exe
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\bin\Debug\net6.0\1-fatorial.deps.json
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\bin\Debug\net6.0\1-fatorial.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\bin\Debug\net6.0\1-fatorial.dll
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\bin\Debug\net6.0\1-fatorial.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\obj\Debug\net6.0\1-fatorial.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\obj\Debug\net6.0\1-fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\obj\Debug\net6.0\1-fatorial.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\obj\Debug\net6.0\1-fatorial.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\obj\Debug\net6.0\1-fatorial.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\obj\Debug\net6.0\1-fatorial.dll
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\obj\Debug\net6.0\refint\1-fatorial.dll
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\obj\Debug\net6.0\1-fatorial.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\obj\Debug\net6.0\1-fatorial.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Recursividade\1-fatorial\obj\Debug\net6.0\ref\1-fatorial.dll

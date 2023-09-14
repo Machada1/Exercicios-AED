@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\bin\Debug\net6.0\5-Fatorial.exe
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\bin\Debug\net6.0\5-Fatorial.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\bin\Debug\net6.0\5-Fatorial.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\bin\Debug\net6.0\5-Fatorial.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\bin\Debug\net6.0\5-Fatorial.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\obj\Debug\net6.0\5-Fatorial.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\obj\Debug\net6.0\5-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\obj\Debug\net6.0\5-Fatorial.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\obj\Debug\net6.0\5-Fatorial.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\obj\Debug\net6.0\5-Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\obj\Debug\net6.0\5-Fatorial.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\obj\Debug\net6.0\refint\5-Fatorial.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\obj\Debug\net6.0\5-Fatorial.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\obj\Debug\net6.0\5-Fatorial.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\5-Fatorial\obj\Debug\net6.0\ref\5-Fatorial.dll

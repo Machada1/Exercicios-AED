@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\obj\Debug\net6.0\altura.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\obj\Debug\net6.0\altura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\obj\Debug\net6.0\altura.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\obj\Debug\net6.0\altura.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\obj\Debug\net6.0\altura.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\bin\Debug\net6.0\altura.exe
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\bin\Debug\net6.0\altura.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\bin\Debug\net6.0\altura.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\bin\Debug\net6.0\altura.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\bin\Debug\net6.0\altura.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\obj\Debug\net6.0\altura.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\obj\Debug\net6.0\refint\altura.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\obj\Debug\net6.0\altura.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\obj\Debug\net6.0\altura.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\altura\obj\Debug\net6.0\ref\altura.dll

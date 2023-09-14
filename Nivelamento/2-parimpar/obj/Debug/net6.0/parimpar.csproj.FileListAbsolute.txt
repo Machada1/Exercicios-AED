@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\bin\Debug\net6.0\parimpar.exe
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\bin\Debug\net6.0\parimpar.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\bin\Debug\net6.0\parimpar.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\bin\Debug\net6.0\parimpar.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\bin\Debug\net6.0\parimpar.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\obj\Debug\net6.0\parimpar.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\obj\Debug\net6.0\parimpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\obj\Debug\net6.0\parimpar.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\obj\Debug\net6.0\parimpar.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\obj\Debug\net6.0\parimpar.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\obj\Debug\net6.0\parimpar.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\obj\Debug\net6.0\refint\parimpar.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\obj\Debug\net6.0\parimpar.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\obj\Debug\net6.0\parimpar.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\parimpar\obj\Debug\net6.0\ref\parimpar.dll

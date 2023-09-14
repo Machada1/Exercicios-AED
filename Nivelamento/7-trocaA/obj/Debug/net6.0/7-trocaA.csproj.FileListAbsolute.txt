@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\bin\Debug\net6.0\7-trocaA.exe
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\bin\Debug\net6.0\7-trocaA.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\bin\Debug\net6.0\7-trocaA.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\bin\Debug\net6.0\7-trocaA.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\bin\Debug\net6.0\7-trocaA.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\obj\Debug\net6.0\7-trocaA.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\obj\Debug\net6.0\7-trocaA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\obj\Debug\net6.0\7-trocaA.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\obj\Debug\net6.0\7-trocaA.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\obj\Debug\net6.0\7-trocaA.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\obj\Debug\net6.0\7-trocaA.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\obj\Debug\net6.0\refint\7-trocaA.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\obj\Debug\net6.0\7-trocaA.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\obj\Debug\net6.0\7-trocaA.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\7-trocaA\obj\Debug\net6.0\ref\7-trocaA.dll

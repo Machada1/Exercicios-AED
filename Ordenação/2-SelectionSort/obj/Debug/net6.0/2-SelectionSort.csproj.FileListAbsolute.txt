@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\bin\Debug\net6.0\2-SelectionSort.exe
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\bin\Debug\net6.0\2-SelectionSort.deps.json
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\bin\Debug\net6.0\2-SelectionSort.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\bin\Debug\net6.0\2-SelectionSort.dll
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\bin\Debug\net6.0\2-SelectionSort.pdb
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\obj\Debug\net6.0\2-SelectionSort.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\obj\Debug\net6.0\2-SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\obj\Debug\net6.0\2-SelectionSort.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\obj\Debug\net6.0\2-SelectionSort.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\obj\Debug\net6.0\2-SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\obj\Debug\net6.0\2-SelectionSort.dll
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\obj\Debug\net6.0\refint\2-SelectionSort.dll
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\obj\Debug\net6.0\2-SelectionSort.pdb
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\obj\Debug\net6.0\2-SelectionSort.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Ordenação\2-SelectionSort\obj\Debug\net6.0\ref\2-SelectionSort.dll

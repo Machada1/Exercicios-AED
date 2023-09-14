@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\bin\Debug\net6.0\10-DecToBin.exe
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\bin\Debug\net6.0\10-DecToBin.deps.json
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\bin\Debug\net6.0\10-DecToBin.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\bin\Debug\net6.0\10-DecToBin.dll
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\bin\Debug\net6.0\10-DecToBin.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\obj\Debug\net6.0\10-DecToBin.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\obj\Debug\net6.0\10-DecToBin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\obj\Debug\net6.0\10-DecToBin.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\obj\Debug\net6.0\10-DecToBin.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\obj\Debug\net6.0\10-DecToBin.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\obj\Debug\net6.0\10-DecToBin.dll
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\obj\Debug\net6.0\refint\10-DecToBin.dll
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\obj\Debug\net6.0\10-DecToBin.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\obj\Debug\net6.0\10-DecToBin.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Recursividade\10-DecToBin\obj\Debug\net6.0\ref\10-DecToBin.dll

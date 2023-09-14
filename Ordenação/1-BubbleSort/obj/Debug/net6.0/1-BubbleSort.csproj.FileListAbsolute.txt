@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\bin\Debug\net6.0\1-BubbleSort.exe
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\bin\Debug\net6.0\1-BubbleSort.deps.json
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\bin\Debug\net6.0\1-BubbleSort.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\bin\Debug\net6.0\1-BubbleSort.dll
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\bin\Debug\net6.0\1-BubbleSort.pdb
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\obj\Debug\net6.0\1-BubbleSort.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\obj\Debug\net6.0\1-BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\obj\Debug\net6.0\1-BubbleSort.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\obj\Debug\net6.0\1-BubbleSort.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\obj\Debug\net6.0\1-BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\obj\Debug\net6.0\1-BubbleSort.dll
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\obj\Debug\net6.0\refint\1-BubbleSort.dll
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\obj\Debug\net6.0\1-BubbleSort.pdb
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\obj\Debug\net6.0\1-BubbleSort.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Ordenação\1-BubbleSort\obj\Debug\net6.0\ref\1-BubbleSort.dll

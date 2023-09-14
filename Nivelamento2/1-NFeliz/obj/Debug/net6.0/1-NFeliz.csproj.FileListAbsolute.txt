@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\bin\Debug\net6.0\1-NFeliz.exe
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\bin\Debug\net6.0\1-NFeliz.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\bin\Debug\net6.0\1-NFeliz.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\bin\Debug\net6.0\1-NFeliz.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\bin\Debug\net6.0\1-NFeliz.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\obj\Debug\net6.0\1-NFeliz.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\obj\Debug\net6.0\1-NFeliz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\obj\Debug\net6.0\1-NFeliz.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\obj\Debug\net6.0\1-NFeliz.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\obj\Debug\net6.0\1-NFeliz.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\obj\Debug\net6.0\1-NFeliz.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\obj\Debug\net6.0\refint\1-NFeliz.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\obj\Debug\net6.0\1-NFeliz.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\obj\Debug\net6.0\1-NFeliz.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\1-NFeliz\obj\Debug\net6.0\ref\1-NFeliz.dll

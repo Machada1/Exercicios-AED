@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\bin\Debug\net6.0\2-EhPrimo.exe
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\bin\Debug\net6.0\2-EhPrimo.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\bin\Debug\net6.0\2-EhPrimo.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\bin\Debug\net6.0\2-EhPrimo.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\bin\Debug\net6.0\2-EhPrimo.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\obj\Debug\net6.0\2-EhPrimo.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\obj\Debug\net6.0\2-EhPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\obj\Debug\net6.0\2-EhPrimo.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\obj\Debug\net6.0\2-EhPrimo.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\obj\Debug\net6.0\2-EhPrimo.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\obj\Debug\net6.0\2-EhPrimo.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\obj\Debug\net6.0\refint\2-EhPrimo.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\obj\Debug\net6.0\2-EhPrimo.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\obj\Debug\net6.0\2-EhPrimo.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPrimo\obj\Debug\net6.0\ref\2-EhPrimo.dll

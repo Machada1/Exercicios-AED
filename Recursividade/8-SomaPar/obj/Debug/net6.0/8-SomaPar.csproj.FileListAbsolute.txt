@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\bin\Debug\net6.0\8-SomaPar.exe
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\bin\Debug\net6.0\8-SomaPar.deps.json
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\bin\Debug\net6.0\8-SomaPar.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\bin\Debug\net6.0\8-SomaPar.dll
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\bin\Debug\net6.0\8-SomaPar.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\obj\Debug\net6.0\8-SomaPar.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\obj\Debug\net6.0\8-SomaPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\obj\Debug\net6.0\8-SomaPar.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\obj\Debug\net6.0\8-SomaPar.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\obj\Debug\net6.0\8-SomaPar.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\obj\Debug\net6.0\8-SomaPar.dll
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\obj\Debug\net6.0\refint\8-SomaPar.dll
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\obj\Debug\net6.0\8-SomaPar.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\obj\Debug\net6.0\8-SomaPar.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Recursividade\8-SomaPar\obj\Debug\net6.0\ref\8-SomaPar.dll

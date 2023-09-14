@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\bin\Debug\net6.0\3-ComparaVet.exe
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\bin\Debug\net6.0\3-ComparaVet.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\bin\Debug\net6.0\3-ComparaVet.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\bin\Debug\net6.0\3-ComparaVet.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\bin\Debug\net6.0\3-ComparaVet.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\obj\Debug\net6.0\3-ComparaVet.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\obj\Debug\net6.0\3-ComparaVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\obj\Debug\net6.0\3-ComparaVet.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\obj\Debug\net6.0\3-ComparaVet.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\obj\Debug\net6.0\3-ComparaVet.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\obj\Debug\net6.0\3-ComparaVet.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\obj\Debug\net6.0\refint\3-ComparaVet.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\obj\Debug\net6.0\3-ComparaVet.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\obj\Debug\net6.0\3-ComparaVet.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\3-ComparaVet\obj\Debug\net6.0\ref\3-ComparaVet.dll

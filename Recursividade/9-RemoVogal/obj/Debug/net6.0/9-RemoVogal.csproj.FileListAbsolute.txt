@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\bin\Debug\net6.0\9-RemoVogal.exe
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\bin\Debug\net6.0\9-RemoVogal.deps.json
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\bin\Debug\net6.0\9-RemoVogal.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\bin\Debug\net6.0\9-RemoVogal.dll
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\bin\Debug\net6.0\9-RemoVogal.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\obj\Debug\net6.0\9-RemoVogal.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\obj\Debug\net6.0\9-RemoVogal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\obj\Debug\net6.0\9-RemoVogal.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\obj\Debug\net6.0\9-RemoVogal.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\obj\Debug\net6.0\9-RemoVogal.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\obj\Debug\net6.0\9-RemoVogal.dll
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\obj\Debug\net6.0\refint\9-RemoVogal.dll
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\obj\Debug\net6.0\9-RemoVogal.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\obj\Debug\net6.0\9-RemoVogal.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Recursividade\9-RemoVogal\obj\Debug\net6.0\ref\9-RemoVogal.dll

@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\bin\Debug\net6.0\4-SomaMatriz.exe
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\bin\Debug\net6.0\4-SomaMatriz.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\bin\Debug\net6.0\4-SomaMatriz.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\bin\Debug\net6.0\4-SomaMatriz.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\bin\Debug\net6.0\4-SomaMatriz.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\obj\Debug\net6.0\4-SomaMatriz.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\obj\Debug\net6.0\4-SomaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\obj\Debug\net6.0\4-SomaMatriz.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\obj\Debug\net6.0\4-SomaMatriz.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\obj\Debug\net6.0\4-SomaMatriz.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\obj\Debug\net6.0\4-SomaMatriz.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\obj\Debug\net6.0\refint\4-SomaMatriz.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\obj\Debug\net6.0\4-SomaMatriz.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\obj\Debug\net6.0\4-SomaMatriz.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\4-SomaMatriz\obj\Debug\net6.0\ref\4-SomaMatriz.dll

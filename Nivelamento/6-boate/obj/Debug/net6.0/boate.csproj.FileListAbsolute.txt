@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\bin\Debug\net6.0\boate.exe
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\bin\Debug\net6.0\boate.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\bin\Debug\net6.0\boate.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\bin\Debug\net6.0\boate.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\bin\Debug\net6.0\boate.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\obj\Debug\net6.0\boate.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\obj\Debug\net6.0\boate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\obj\Debug\net6.0\boate.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\obj\Debug\net6.0\boate.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\obj\Debug\net6.0\boate.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\obj\Debug\net6.0\boate.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\obj\Debug\net6.0\refint\boate.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\obj\Debug\net6.0\boate.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\obj\Debug\net6.0\boate.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\boate\obj\Debug\net6.0\ref\boate.dll

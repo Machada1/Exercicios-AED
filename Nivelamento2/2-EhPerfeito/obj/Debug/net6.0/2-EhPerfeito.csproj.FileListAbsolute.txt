@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\bin\Debug\net6.0\2-EhPerfeito.exe
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\bin\Debug\net6.0\2-EhPerfeito.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\bin\Debug\net6.0\2-EhPerfeito.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\bin\Debug\net6.0\2-EhPerfeito.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\bin\Debug\net6.0\2-EhPerfeito.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\obj\Debug\net6.0\2-EhPerfeito.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\obj\Debug\net6.0\2-EhPerfeito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\obj\Debug\net6.0\2-EhPerfeito.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\obj\Debug\net6.0\2-EhPerfeito.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\obj\Debug\net6.0\2-EhPerfeito.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\obj\Debug\net6.0\2-EhPerfeito.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\obj\Debug\net6.0\refint\2-EhPerfeito.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\obj\Debug\net6.0\2-EhPerfeito.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\obj\Debug\net6.0\2-EhPerfeito.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\2-EhPerfeito\obj\Debug\net6.0\ref\2-EhPerfeito.dll

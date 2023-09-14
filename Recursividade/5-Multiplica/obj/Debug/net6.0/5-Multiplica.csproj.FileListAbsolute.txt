@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\bin\Debug\net6.0\5-Multiplica.exe
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\bin\Debug\net6.0\5-Multiplica.deps.json
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\bin\Debug\net6.0\5-Multiplica.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\bin\Debug\net6.0\5-Multiplica.dll
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\bin\Debug\net6.0\5-Multiplica.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\obj\Debug\net6.0\5-Multiplica.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\obj\Debug\net6.0\5-Multiplica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\obj\Debug\net6.0\5-Multiplica.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\obj\Debug\net6.0\5-Multiplica.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\obj\Debug\net6.0\5-Multiplica.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\obj\Debug\net6.0\5-Multiplica.dll
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\obj\Debug\net6.0\refint\5-Multiplica.dll
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\obj\Debug\net6.0\5-Multiplica.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\obj\Debug\net6.0\5-Multiplica.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Recursividade\5-Multiplica\obj\Debug\net6.0\ref\5-Multiplica.dll

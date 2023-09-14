@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\bin\Debug\net6.0\10-IMC.exe
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\bin\Debug\net6.0\10-IMC.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\bin\Debug\net6.0\10-IMC.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\bin\Debug\net6.0\10-IMC.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\bin\Debug\net6.0\10-IMC.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\obj\Debug\net6.0\10-IMC.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\obj\Debug\net6.0\10-IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\obj\Debug\net6.0\10-IMC.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\obj\Debug\net6.0\10-IMC.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\obj\Debug\net6.0\10-IMC.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\obj\Debug\net6.0\10-IMC.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\obj\Debug\net6.0\refint\10-IMC.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\obj\Debug\net6.0\10-IMC.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\obj\Debug\net6.0\10-IMC.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\10-IMC\obj\Debug\net6.0\ref\10-IMC.dll

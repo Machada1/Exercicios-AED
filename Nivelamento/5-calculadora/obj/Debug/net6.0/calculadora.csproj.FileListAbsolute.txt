@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\bin\Debug\net6.0\calculadora.exe
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\bin\Debug\net6.0\calculadora.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\bin\Debug\net6.0\calculadora.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\bin\Debug\net6.0\calculadora.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\bin\Debug\net6.0\calculadora.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\obj\Debug\net6.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\obj\Debug\net6.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\obj\Debug\net6.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\obj\Debug\net6.0\calculadora.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\obj\Debug\net6.0\refint\calculadora.dll
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\obj\Debug\net6.0\calculadora.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\obj\Debug\net6.0\calculadora.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento\calculadora\obj\Debug\net6.0\ref\calculadora.dll

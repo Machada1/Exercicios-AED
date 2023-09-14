@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\bin\Debug\net6.0\6-Potencia.exe
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\bin\Debug\net6.0\6-Potencia.deps.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\bin\Debug\net6.0\6-Potencia.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\bin\Debug\net6.0\6-Potencia.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\bin\Debug\net6.0\6-Potencia.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\obj\Debug\net6.0\6-Potencia.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\obj\Debug\net6.0\6-Potencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\obj\Debug\net6.0\6-Potencia.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\obj\Debug\net6.0\6-Potencia.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\obj\Debug\net6.0\6-Potencia.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\obj\Debug\net6.0\6-Potencia.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\obj\Debug\net6.0\refint\6-Potencia.dll
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\obj\Debug\net6.0\6-Potencia.pdb
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\obj\Debug\net6.0\6-Potencia.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Nivelamento2\6-Potencia\obj\Debug\net6.0\ref\6-Potencia.dll

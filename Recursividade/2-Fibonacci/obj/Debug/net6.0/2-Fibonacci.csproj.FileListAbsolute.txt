@@ -1,0 +1,15 @@
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\bin\Debug\net6.0\2-Fibonacci.exe
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\bin\Debug\net6.0\2-Fibonacci.deps.json
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\bin\Debug\net6.0\2-Fibonacci.runtimeconfig.json
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\bin\Debug\net6.0\2-Fibonacci.dll
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\bin\Debug\net6.0\2-Fibonacci.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\obj\Debug\net6.0\2-Fibonacci.csproj.AssemblyReference.cache
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\obj\Debug\net6.0\2-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\obj\Debug\net6.0\2-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\obj\Debug\net6.0\2-Fibonacci.AssemblyInfo.cs
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\obj\Debug\net6.0\2-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\obj\Debug\net6.0\2-Fibonacci.dll
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\obj\Debug\net6.0\refint\2-Fibonacci.dll
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\obj\Debug\net6.0\2-Fibonacci.pdb
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\obj\Debug\net6.0\2-Fibonacci.genruntimeconfig.cache
+C:\Users\1216504\Desktop\AED\Recursividade\2-Fibonacci\obj\Debug\net6.0\ref\2-Fibonacci.dll
