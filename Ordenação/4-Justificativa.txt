@@ -1,0 +1,16 @@
+1. **Bubble Sort**:
+   - **Custo**: O Bubble Sort é ineficiente para grandes conjuntos de dados, pois envolve muitas trocas de elementos adjacentes. É um dos algoritmos mais lentos em termos de desempenho.
+   - **Ordem de Complexidade**: O pior caso, caso médio e melhor caso têm uma ordem de complexidade de O(n^2), onde "n" é o número de elementos no vetor.
+   - **Tempo de Execução**: O Bubble Sort tende a ser mais lento em comparação com os outros algoritmos, especialmente para tamanhos maiores de vetores. O tempo de execução pode ser significativamente maior à medida que o número de elementos aumenta.
+
+2. **Selection Sort**:
+   - **Custo**: O Selection Sort é mais eficiente que o Bubble Sort, pois envolve menos trocas de elementos. No entanto, ainda não é muito eficiente para grandes conjuntos de dados.
+   - **Ordem de Complexidade**: O pior caso, caso médio e melhor caso também têm uma ordem de complexidade de O(n^2).
+   - **Tempo de Execução**: O Selection Sort é um pouco mais rápido que o Bubble Sort, mas ainda é lento para tamanhos maiores de vetores. O tempo de execução aumenta à medida que o número de elementos aumenta.
+
+3. **Insertion Sort**:
+   - **Custo**: O Insertion Sort é mais eficiente do que os dois métodos anteriores em muitos casos. Ele envolve um número menor de comparações e trocas de elementos.
+   - **Ordem de Complexidade**: O pior caso e o caso médio têm uma ordem de complexidade de O(n^2), mas o melhor caso (quando o vetor já está quase ordenado) tem uma ordem de complexidade de O(n).
+   - **Tempo de Execução**: O Insertion Sort é geralmente mais rápido do que o Bubble Sort e o Selection Sort em muitos cenários, especialmente quando o vetor está quase ordenado. No entanto, ainda não é tão eficiente quanto algoritmos mais avançados, como o Quick Sort ou o Merge Sort.
+
+Resumindo, embora os três algoritmos tenham complexidade de tempo semelhante no pior caso (O(n^2)), o Bubble Sort é geralmente o mais lento entre eles, seguido pelo Selection Sort e pelo Insertion Sort. O Insertion Sort tem um desempenho melhor em cenários em que o vetor já está parcialmente ordenado. No entanto, para conjuntos de dados maiores ou quando o desempenho é crítico, é preferível usar algoritmos de ordenação mais eficientes, como Quick Sort, Merge Sort ou algoritmos baseados em estruturas de dados avançadas como o Tim Sort.
