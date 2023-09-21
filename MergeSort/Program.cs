@@ -19,36 +19,11 @@ class Program
             Console.WriteLine($"Tamanho do vetor: {size}");
 
             // Merge Sort
-            Array.Copy(arr, temp, size); // Copie o array original para evitar efeitos colaterais
+            Array.Copy(arr, temp, size); 
             stopwatch.Start();
             MergeSort(temp, 0, size - 1);
             stopwatch.Stop();
             Console.WriteLine($"Merge Sort: Tempo de execução {stopwatch.ElapsedMilliseconds}ms");
-
-            // Bubble Sort
-            Array.Copy(arr, temp, size);
-            stopwatch.Reset();
-            stopwatch.Start();
-            BubbleSort(temp);
-            stopwatch.Stop();
-            Console.WriteLine($"Bubble Sort: Tempo de execução {stopwatch.ElapsedMilliseconds}ms");
-
-            // Selection Sort
-            Array.Copy(arr, temp, size);
-            stopwatch.Reset();
-            stopwatch.Start();
-            SelectionSort(temp);
-            stopwatch.Stop();
-            Console.WriteLine($"Selection Sort: Tempo de execução {stopwatch.ElapsedMilliseconds}ms");
-
-            // Insertion Sort
-            Array.Copy(arr, temp, size);
-            stopwatch.Reset();
-            stopwatch.Start();
-            InsertionSort(temp);
-            stopwatch.Stop();
-            Console.WriteLine($"Insertion Sort: Tempo de execução {stopwatch.ElapsedMilliseconds}ms");
-
             Console.WriteLine();
         }
     }
@@ -63,8 +38,11 @@ class Program
         return arr;
     }
 
+
+/*
     static void Merge(int[] arr, int left, int middle, int right)
     {
+        //Merge com O(n)
         int n1 = middle - left + 1;
         int n2 = right - middle;
 
@@ -106,20 +84,12 @@ class Program
         }
     }
 
-    static void MergeSort(int[] arr, int left, int right)
-    {
-        if (left < right)
-        {
-            int middle = (left + right) / 2;
-            MergeSort(arr, left, middle);
-            MergeSort(arr, middle + 1, right);
-            Merge(arr, left, middle, right);
-        }
-    }
-
-    static void BubbleSort(int[] arr)
-    {
-        int n = arr.Length;
+*/
+/*
+    static void Merge(int[] arr, int left, int middle, int right)
+{
+    //Merge com bubble sort
+           int n = arr.Length;
         bool swapped;
 
         for (int i = 0; i < n - 1; i++)
@@ -140,10 +110,12 @@ class Program
             if (!swapped)
                 break;
         }
-    }
-
-    static void SelectionSort(int[] arr)
-    {
+}
+*/
+//*
+static void Merge(int[] arr, int left, int middle, int right)
+{
+    //Merge com selection sort
         int n = arr.Length;
 
         for (int i = 0; i < n - 1; i++)
@@ -164,11 +136,13 @@ class Program
                 arr[minIndex] = temp;
             }
         }
-    }
-
-    static void InsertionSort(int[] arr)
-    {
-        int n = arr.Length;
+}
+//*/
+/*
+static void Merge(int[] arr, int left, int middle, int right)
+{
+    //Merge com insertion sort
+    int n = arr.Length;
 
         for (int i = 1; i < n; i++)
         {
@@ -183,5 +157,17 @@ class Program
 
             arr[j + 1] = key;
         }
-    }
 }
+*/
+
+    static void MergeSort(int[] arr, int left, int right)
+    {
+        if (left < right)
+        {
+            int middle = (left + right) / 2;
+            MergeSort(arr, left, middle);
+            MergeSort(arr, middle + 1, right);
+            Merge(arr, left, middle, right);
+        }
+    }
+}    
