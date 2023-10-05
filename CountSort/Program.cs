@@ -3,70 +3,56 @@ using System.Diagnostics;
 
 class Program
 {
-    static int[] CountSort(int[] arr)
+    static int[] CountSort(int[] arr, int maxValue)
     {
-        int maxVal = arr[0];
-        int minVal = arr[0];
-        int n = arr.Length;
+        int[] count = new int[maxValue + 1];
 
-        // Encontra o valor máximo e mínimo no vetor
-        for (int i = 1; i < n; i++)
+        // Contagem das ocorrências de cada elemento no vetor
+        for (int i = 0; i < arr.Length; i++)
         {
-            if (arr[i] > maxVal)
-                maxVal = arr[i];
-            if (arr[i] < minVal)
-                minVal = arr[i];
+            count[arr[i]]++;
         }
 
-        int k = maxVal - minVal + 1;
-
-        // Inicializa o vetor de contagem com zeros
-        int[] count = new int[k];
-
-        // Conta as ocorrências de cada elemento no vetor original
-        for (int i = 0; i < n; i++)
-        {
-            count[arr[i] - minVal]++;
-        }
-
-        // Constrói o vetor ordenado a partir das contagens
-        int[] sortedArr = new int[n];
+        // Reconstrução do vetor ordenado
         int index = 0;
-        for (int i = 0; i < k; i++)
+        for (int i = 0; i <= maxValue; i++)
         {
-            for (int j = 0; j < count[i]; j++)
+            while (count[i] > 0)
             {
-                sortedArr[index] = i + minVal;
+                arr[index] = i;
                 index++;
+                count[i]--;
             }
         }
 
-        return sortedArr;
+        return arr;
     }
 
     static void Main(string[] args)
     {
         int[] tamanhos = { 500, 1000, 5000, 10000, 50000, 100000, 5000000 };
+        Random random = new Random();
 
         foreach (int tamanho in tamanhos)
         {
             int[] vetor = new int[tamanho];
-            Random random = new Random();
 
+            // Preenche o vetor com números aleatórios entre 1 e 75
             for (int i = 0; i < tamanho; i++)
             {
-                vetor[i] = random.Next(1, 76); // Números entre 1 e 75
+                vetor[i] = random.Next(1, 76);
             }
 
             Stopwatch stopwatch = new Stopwatch();
             stopwatch.Start();
 
-            int[] sortedVetor = CountSort(vetor);
+            int maxValue = 75; // O intervalo é de 1 a 75
+            int[] sortedVetor = CountSort(vetor, maxValue);
 
             stopwatch.Stop();
             TimeSpan tempoExecucao = stopwatch.Elapsed;
 
-            Console.WriteLine($"Tamanho do vetor: {tamanho}, Tempo de execução: {tempoExecucao.TotalSeconds:F6} segundos");
+            Console.WriteLine($"Tamanho do vetor: {tamanho}, Tempo de execução: {tempoExecucao.TotalMilliseconds} ms");
         }
     }
 }
