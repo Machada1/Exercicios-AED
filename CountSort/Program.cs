@@ -45,6 +45,13 @@ class Program
 
             stopwatch.Stop();
             Console.WriteLine($"Tamanho do vetor: {size}, Tempo de execução: {stopwatch.ElapsedMilliseconds} ms");
+                        Console.WriteLine("Vetor ordenado:");
+            foreach (int value in arr)
+            {
+                Console.Write(value + " ");
+            }
+            Console.WriteLine();
+            
         }
     }
 }
