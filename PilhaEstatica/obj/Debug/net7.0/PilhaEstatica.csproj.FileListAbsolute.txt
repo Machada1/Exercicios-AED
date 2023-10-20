@@ -1,0 +1,14 @@
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\bin\Debug\net7.0\PilhaEstatica.exe
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\bin\Debug\net7.0\PilhaEstatica.deps.json
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\bin\Debug\net7.0\PilhaEstatica.runtimeconfig.json
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\bin\Debug\net7.0\PilhaEstatica.dll
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\bin\Debug\net7.0\PilhaEstatica.pdb
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\obj\Debug\net7.0\PilhaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\obj\Debug\net7.0\PilhaEstatica.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\obj\Debug\net7.0\PilhaEstatica.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\obj\Debug\net7.0\PilhaEstatica.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\obj\Debug\net7.0\PilhaEstatica.dll
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\obj\Debug\net7.0\refint\PilhaEstatica.dll
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\obj\Debug\net7.0\PilhaEstatica.pdb
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\obj\Debug\net7.0\PilhaEstatica.genruntimeconfig.cache
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\PilhaEstatica\obj\Debug\net7.0\ref\PilhaEstatica.dll

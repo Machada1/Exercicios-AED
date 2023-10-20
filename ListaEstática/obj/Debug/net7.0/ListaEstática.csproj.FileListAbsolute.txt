@@ -1,0 +1,14 @@
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\obj\Debug\net7.0\ListaEstática.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\obj\Debug\net7.0\ListaEstática.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\obj\Debug\net7.0\ListaEstática.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\obj\Debug\net7.0\ListaEstática.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\bin\Debug\net7.0\ListaEstática.exe
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\bin\Debug\net7.0\ListaEstática.deps.json
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\bin\Debug\net7.0\ListaEstática.runtimeconfig.json
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\bin\Debug\net7.0\ListaEstática.dll
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\bin\Debug\net7.0\ListaEstática.pdb
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\obj\Debug\net7.0\ListaEstática.dll
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\obj\Debug\net7.0\refint\ListaEstática.dll
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\obj\Debug\net7.0\ListaEstática.pdb
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\obj\Debug\net7.0\ListaEstática.genruntimeconfig.cache
+C:\Users\guilh\Desktop\Estudos-Projetos\AED\Exercicios-AED\ListaEstática\obj\Debug\net7.0\ref\ListaEstática.dll
